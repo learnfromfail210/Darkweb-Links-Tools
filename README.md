@@ -79,35 +79,35 @@ Link-analysis and investigation platform.
 
 Network protocol analyzer used for network troubleshooting and security analysis.
 
-- 🌐 Website: https://www.wireshark.org/
+    - 🌐 Website: https://www.wireshark.org/
 
-- ⬇️ Download: https://www.wireshark.org/download.html
+    - ⬇️ Download: https://www.wireshark.org/download.html
 
 ### OWASP ZAP
 
 Open-source web application security testing tool.
 
-- 🌐 Website: https://www.zaproxy.org/
+    - 🌐 Website: https://www.zaproxy.org/
 
-- ⬇️ Download: https://www.zaproxy.org/download/
+    - ⬇️ Download: https://www.zaproxy.org/download/
 
 ### Nmap
 
 Network discovery and security auditing tool.
 
-- 🌐 Website: https://nmap.org/
+    - 🌐 Website: https://nmap.org/
 
-- ⬇️ Download: https://nmap.org/download.html
-
+    - ⬇️ Download: https://nmap.org/download.html
+    
 ### CyberChef
 
 Web-based tool for data analysis, encoding, decoding, and transformation.
 
-- 🌐 Website: https://gchq.github.io/CyberChef/
+    - 🌐 Website: https://gchq.github.io/CyberChef/
 
-- 💻 GitHub: https://github.com/gchq/CyberChef
+    - 💻 GitHub: https://github.com/gchq/CyberChef
 
-- ⬇️ Releases: https://github.com/gchq/CyberChef/releases
+    - ⬇️ Releases: https://github.com/gchq/CyberChef/releases
 
 ---
 
@@ -117,26 +117,121 @@ Web-based tool for data analysis, encoding, decoding, and transformation.
 
 Web application security resources and projects.
 
-https://owasp.org/
+    https://owasp.org/
 
 ### MITRE ATT&CK
 
 Knowledge base of adversary tactics and techniques.
 
-https://attack.mitre.org/
+    https://attack.mitre.org/
 
 ### NIST Cybersecurity Framework
 
 Cybersecurity risk-management guidance.
 
-https://www.nist.gov/cyberframework
+    https://www.nist.gov/cyberframework
 
 ### Tor Documentation
 
 Official Tor documentation and support resources.
 
-https://support.torproject.org/
+    https://support.torproject.org/
+---
+## 🌐 Dark Web / Onion Services
 
+> ⚠️ **Note:** The links below are limited to legitimate onion services used for privacy, journalism, research, and public-interest purposes. No marketplaces, illegal services, or illicit directories are included.
+
+### 🧅 Tor Project
+
+Official Tor Project resources and documentation.
+
+    - 🌐 **Website:** https://www.torproject.org/
+    - 📚 **Documentation:** https://support.torproject.org/
+    - 🧅 **Onion Services:** https://onion.torproject.org/
+
+### 🔎 DuckDuckGo
+
+Privacy-focused search engine with an official onion service.
+
+    - 🌐 **Website:** https://duckduckgo.com/
+    - 🧅 **Onion:** https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/
+
+### 📰 ProPublica
+
+Nonprofit investigative journalism organization with an onion service.
+
+    - 🌐 **Website:** https://www.propublica.org/
+    - 🧅 **Onion:** https://www.propub3r6espa33w.onion/
+
+### 🔐 SecureDrop
+
+Open-source platform used by participating organizations to securely receive information from sources.
+
+    - 🌐 **Website:** https://securedrop.org/
+    - 📚 **Documentation:** https://docs.securedrop.org/
+
+---
+
+## ⚠️ Privacy & Security Warning
+
+Using an onion service does **not** automatically make a website safe or your device completely secure.
+
+- Use **Tor Browser** when accessing `.onion` services.
+- Keep your operating system and browser updated.
+- Don't download or open unknown files.
+- Don't enter personal information on untrusted websites.
+- Verify onion addresses through the organization's official website.
+- Be careful of phishing and fake onion addresses.
+- Never assume that a `.onion` website is automatically trustworthy.
+
+### 🛡️ VPN as an Additional Privacy Layer
+
+A VPN can provide an **additional privacy layer** by encrypting traffic between your device and the VPN server.
+
+However:
+
+> **A VPN does not make you completely anonymous.**
+
+Using a VPN together with Tor is **not automatically safer**. The Tor Project recommends that typical users avoid combining a VPN with Tor unless they understand the configuration and its privacy implications.
+
+For most users:
+
+**Tor Browser → Onion Service**
+
+is preferable to adding a VPN without understanding how the combination works.
+
+If you do use a VPN, choose a reputable provider, understand what information it may collect, and don't treat the VPN as a guarantee of anonymity.
+
+---
+
+## 🧠 Safe Browsing Guidelines
+
+1. Verify onion addresses before visiting them.
+2. Use Tor Browser instead of an ordinary browser configured to use Tor.
+3. Don't reveal personal information.
+4. Don't reuse important passwords.
+5. Don't open suspicious downloads.
+6. Keep your software updated.
+7. Leave suspicious or illegal services alone.
+8. Remember that anonymity and security are **not guaranteed**.
+
+---
+
+## 📚 Official Resources
+
+- **Tor Project:** https://www.torproject.org/
+- **Tor Support:** https://support.torproject.org/
+- **Tor Browser Download:** https://www.torproject.org/download/
+- **Tor Safety:** https://support.torproject.org/tor-browser/security/using-tb-safely/
+- **SecureDrop:** https://securedrop.org/
+
+---
+
+## 📌 Disclaimer
+
+This repository is intended for **legal, ethical, and educational cybersecurity research only**.
+
+The repository maintainer does not endorse illegal activity, fraud, malware, stolen information, or other unlawful use of these resources.
 ---
 
 ## Notes
