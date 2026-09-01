@@ -79,35 +79,35 @@ Link-analysis and investigation platform.
 
 Network protocol analyzer used for network troubleshooting and security analysis.
 
-    - 🌐 Website: https://www.wireshark.org/
+- 🌐 Website: https://www.wireshark.org/
 
-    - ⬇️ Download: https://www.wireshark.org/download.html
+- ⬇️ Download: https://www.wireshark.org/download.html
 
 ### OWASP ZAP
 
 Open-source web application security testing tool.
 
-    - 🌐 Website: https://www.zaproxy.org/
+- 🌐 Website: https://www.zaproxy.org/
 
-    - ⬇️ Download: https://www.zaproxy.org/download/
+- ⬇️ Download: https://www.zaproxy.org/download/
 
 ### Nmap
 
 Network discovery and security auditing tool.
 
-    - 🌐 Website: https://nmap.org/
+- 🌐 Website: https://nmap.org/
 
-    - ⬇️ Download: https://nmap.org/download.html
+- ⬇️ Download: https://nmap.org/download.html
     
 ### CyberChef
 
 Web-based tool for data analysis, encoding, decoding, and transformation.
 
-    - 🌐 Website: https://gchq.github.io/CyberChef/
+- 🌐 Website: https://gchq.github.io/CyberChef/
 
-    - 💻 GitHub: https://github.com/gchq/CyberChef
+- 💻 GitHub: https://github.com/gchq/CyberChef
 
-    - ⬇️ Releases: https://github.com/gchq/CyberChef/releases
+- ⬇️ Releases: https://github.com/gchq/CyberChef/releases
 
 ---
 
@@ -117,25 +117,25 @@ Web-based tool for data analysis, encoding, decoding, and transformation.
 
 Web application security resources and projects.
 
-    https://owasp.org/
+https://owasp.org/
 
 ### MITRE ATT&CK
 
 Knowledge base of adversary tactics and techniques.
 
-    https://attack.mitre.org/
+https://attack.mitre.org/
 
 ### NIST Cybersecurity Framework
 
 Cybersecurity risk-management guidance.
 
-    https://www.nist.gov/cyberframework
+https://www.nist.gov/cyberframework
 
 ### Tor Documentation
 
 Official Tor documentation and support resources.
 
-    https://support.torproject.org/
+https://support.torproject.org/
 ---
 ## 🌐 Dark Web / Onion Services
 
@@ -145,30 +145,30 @@ Official Tor documentation and support resources.
 
 Official Tor Project resources and documentation.
 
-    - 🌐 **Website:** https://www.torproject.org/
-    - 📚 **Documentation:** https://support.torproject.org/
-    - 🧅 **Onion Services:** https://onion.torproject.org/
+- 🌐 **Website:** https://www.torproject.org/
+- 📚 **Documentation:** https://support.torproject.org/
+- 🧅 **Onion Services:** https://onion.torproject.org/
 
 ### 🔎 DuckDuckGo
 
 Privacy-focused search engine with an official onion service.
 
-    - 🌐 **Website:** https://duckduckgo.com/
-    - 🧅 **Onion:** https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/
+- 🌐 **Website:** https://duckduckgo.com/
+- 🧅 **Onion:** https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/
 
 ### 📰 ProPublica
 
 Nonprofit investigative journalism organization with an onion service.
 
-    - 🌐 **Website:** https://www.propublica.org/
-    - 🧅 **Onion:** https://www.propub3r6espa33w.onion/
+- 🌐 **Website:** https://www.propublica.org/
+- 🧅 **Onion:** https://www.propub3r6espa33w.onion/
 
 ### 🔐 SecureDrop
 
 Open-source platform used by participating organizations to securely receive information from sources.
 
-    - 🌐 **Website:** https://securedrop.org/
-    - 📚 **Documentation:** https://docs.securedrop.org/
+- 🌐 **Website:** https://securedrop.org/
+- 📚 **Documentation:** https://docs.securedrop.org/
 
 ---
 
